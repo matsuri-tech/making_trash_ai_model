@@ -1,0 +1,2 @@
+# making_trash_ai_model
+ゴミチェックAIのAIモデルを作成するためのコード。主にgoogle colabで利用
